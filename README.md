@@ -1,1 +1,1 @@
-# secret-challenge-repo
+Final Secret Phrase = "Elite Cloud Engineer"
